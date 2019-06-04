@@ -21,5 +21,11 @@ Python3 Fundamentals
     4.2. member_privilege
     4.3. constructor
     4.4. destructor
+    4.5. static_functions
+    4.6. static_variables
+    4.7. inheritance
+    4.8. polymorphism
+5. file IO
+    5.1. 
 
 Anaconda3 Simple Applications
