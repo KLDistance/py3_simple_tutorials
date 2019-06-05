@@ -44,3 +44,6 @@ Python3 Fundamentals
     8.6. asynchronization2
 
 Anaconda3 Simple Applications
+1. detailed instance -- data regression and simple machine learning
+2. detailed instance -- digital image processing
+3. detailed instance -- network programming and web crawler
