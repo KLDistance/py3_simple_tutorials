@@ -1,0 +1,32 @@
+./outfiles/res1.out
+
+==> Energetics <==
+
+SCF energy = -1000
+Total CI energy = -1.234
+
+
+./outfiles/res2.out
+
+==> Energetics <==
+
+SCF energy = -923
+Total CI energy = -0.452
+
+
+./outfiles/res3.out
+
+==> Energetics <==
+
+SCF energy = -3333
+Total CI energy = -2.333
+
+
+./outfiles/tmp/res4.out
+
+==> Energetics <==
+
+SCF energy = -232
+Total CI energy = -0.142
+
+
