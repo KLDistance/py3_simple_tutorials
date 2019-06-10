@@ -1,7 +1,7 @@
-# CubicDraw
+# Py3 Simple Tutorials
 **By Yunong Wang (DrippySummer @ KLDistance)**
 <br><br>
-A slide assembly for python workshop usage.<br>
+A self-made tutorial for python3.6 workshop usage, with some source codes and data from well-known databases.<br>
 This python3.6 assembly should rely on Anaconda3 (or later version).
 <br><br>
 ## Syllabus
@@ -57,8 +57,6 @@ This python3.6 assembly should rely on Anaconda3 (or later version).
 1. detailed instance -- data regression and simple machine learning<br>
 2. detailed instance -- digital image processing<br>
 3. detailed instance -- network programming and web crawler<br>
-
-### Beware not to move the relative path of the exe and all the other folders!
 
 <br>
 Best regards!
