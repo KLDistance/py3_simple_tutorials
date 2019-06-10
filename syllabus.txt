@@ -29,19 +29,22 @@ Python3 Fundamentals
     5.1. file_readwrite
     5.2. file_hierarchies
     5.3. directory_tourist
-6. python maths
-    6.1. vector_operations
-    6.2. matrix_operations1
-    6.3. matrix_operations2
-7. *exception
-    7.1. exception
-8. *threading
-    8.1. create_multithread
-    8.2. unsafe_global_variables
-    8.3. mutex_synchronize
-    8.4. event_synchronize
-    8.5. asynchronization1
-    8.6. asynchronization2
+6. regular expression
+    6.1 regular_expression
+    6.2 file_content_extration (instance)
+7. python maths
+    7.1. vector_operations
+    7.2. matrix_operations1
+    7.3. matrix_operations2
+8. *exception
+    8.1. exception
+9. *threading
+    9.1. create_multithread
+    9.2. unsafe_global_variables
+    9.3. mutex_synchronize
+    9.4. event_synchronize
+    9.5. asynchronization1
+    9.6. asynchronization2
 
 Anaconda3 Simple Applications
 1. detailed instance -- data regression and simple machine learning
